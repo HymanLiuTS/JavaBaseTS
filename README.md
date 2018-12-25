@@ -1,4 +1,4 @@
-#Java基础
+#Java基础<br>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 01DeclarativeTS<br>
 * Collection.foreach(...)<br>
 　　foreach中传入处理单个元素的函数，无返回值，实现遍历列表中元素的功能。
