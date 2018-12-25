@@ -14,9 +14,11 @@ public static void main(String[] args) {
 		System.out.println(i);
 	}
 ```
+
 * Collection.map(...)<br>
 　　map中传入处理单个元素的函数，且返回该元素，实现了对每个列表中的元素进行处理并生成了新的元素。
-  ```java
+  
+```java
 public static void main(String[] args) {
 		int[] iArr = { 1, 2, 3, 6, 5, 4, 7, 0, 9, 8 };
 		// 使用map来遍历List并将遍历的元素返回，接受一个有返回值的函数
