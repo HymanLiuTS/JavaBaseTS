@@ -31,3 +31,28 @@ public static void main(String[] args) {
 		return i;
 	}
 ```
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 02FunctionInterfaceTS<br>
+* 函数式接口
+    * 接口中只含有一个抽象方法
+    * 使用了@FunctionalInterface注解
+```java
+@FunctionalInterface
+public interface IntHandler {
+	void handle(int i);
+}
+
+```
+
+* 接口的默认方法
+    * 在java8之后，接口中也可以定义实例方法。
+    * 接口中定义实例方法，需要使用default关键字。
+```java
+public interface IHorse {
+	void eat();
+
+    default void run() {
+		System.out.println("horse run");
+	}
+}
+
+```
