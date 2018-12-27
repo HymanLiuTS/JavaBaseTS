@@ -98,7 +98,7 @@ static UserFactory<User> uf = User::new;
 public UserFactory<User> sf = super::instanceNewUser;
 ```
 
-* lambda表达式的本质
+* lambda表达式的本质<br>
 　　在foreach()或者map()等一系列可接受lambda表达式的方法中，其参数的本质其实就是某一个函数式接口，如foreach可以接受IntConsumer实现作为参数，其lambda的实现完整代码应该如下：
 ```java
 static int[] arr = { 1, 3, 5, 7, 9, 10 };
