@@ -11,6 +11,5 @@ public class Student extends User {
 		super(id, name);
 		// TODO Auto-generated constructor stub
 	}
-	//引用超类上的实例方法
 	public UserFactory<User> sf = super::instanceNewUser;
 }
