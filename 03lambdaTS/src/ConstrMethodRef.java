@@ -8,11 +8,7 @@ public class ConstrMethodRef {
 		U create(int id, String name);
 	}
 
-	//引用构造函数
-	//static UserFactory<User> uf = User::new;
-	//引用静态方法
-	//static UserFactory<User> uf = User::newUser;
-	//引用实例方法
+
 	static User user = new User(0,"");
 	static UserFactory<User> uf = user::instanceNewUser;
 	
