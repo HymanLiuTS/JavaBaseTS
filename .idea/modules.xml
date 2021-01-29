@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBaseTS.iml" filepath="$PROJECT_DIR$/.idea/JavaBaseTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gcts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gcts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gcts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gcts.test.iml" />
     </modules>
   </component>
 </project>
