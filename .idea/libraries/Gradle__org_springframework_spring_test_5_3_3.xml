@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework:spring-test:5.3.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.3.3/spring-test-5.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.22.RELEASE/spring-test-4.3.22.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.2.RELEASE/spring-test-4.2.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

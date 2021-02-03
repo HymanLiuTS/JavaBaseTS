@@ -1,0 +1,11 @@
+server:
+  port: 19898
+
+spring:
+## JSP配置
+  mvc:
+    view:
+      # 页面默认前缀
+      prefix: /WEB-INF/jsp/
+      # 响应页面默认后缀
+      suffix=: .jsp

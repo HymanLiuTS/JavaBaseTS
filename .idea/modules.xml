@@ -6,8 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a06printallstackes.iml" filepath="$PROJECT_DIR$/.idea/modules/a06printallstackes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a06printallstackes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a06printallstackes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a06printallstackes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a06printallstackes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gcts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gcts.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gcts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gcts.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/printallstackes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/printallstackes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/printallstackes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/printallstackes.test.iml" />
     </modules>
   </component>
 </project>

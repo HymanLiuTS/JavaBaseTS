@@ -4,8 +4,12 @@
     <bytecodeTargetLevel>
       <module name="a05gcts.main" target="1.8" />
       <module name="a05gcts.test" target="1.8" />
+      <module name="a06printallstackes.main" target="1.8" />
+      <module name="a06printallstackes.test" target="1.8" />
       <module name="gcts.main" target="1.8" />
       <module name="gcts.test" target="1.8" />
+      <module name="printallstackes.main" target="1.8" />
+      <module name="printallstackes.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="TypeScriptCompiler">
