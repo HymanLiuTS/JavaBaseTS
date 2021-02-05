@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/a07JControlAndJvirtualTS/JControlAndJvirtualTS.iml" filepath="$PROJECT_DIR$/a07JControlAndJvirtualTS/JControlAndJvirtualTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBaseTS.iml" filepath="$PROJECT_DIR$/.idea/JavaBaseTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a05gcts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a05gcts.main.iml" />
