@@ -1,7 +1,11 @@
+package 当类实现的接口和拓展的基类存在同名字段;
+
 /**
  * @author ：Hyman
  * @date ：Created in 2021/2/26 16:39
  * @description：
+ * 如果有一个同名字段出现在类的接口和父类中，编译器会拒绝编译。如下面把A注释
+ * 掉就会拒绝编译
  * @modified By：
  * @version: $
  */
@@ -26,7 +30,7 @@ public class FieldResolution {
     static class Sub extends Parent implements Interface2 {
         /*如果有一个同名字段出现在类的接口和父类中，编译器会拒绝编译。如下面把A注释
         * 掉就会拒绝编译*/
-        //public static int A = 4;
+        public static int A = 4;
     }
 
     public static void main(String[] args) {
