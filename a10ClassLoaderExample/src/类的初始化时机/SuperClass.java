@@ -1,3 +1,5 @@
+package 类的初始化时机;
+
 /**
  * @author ：Hyman
  * @date ：Created in 2021/2/25 11:37
@@ -7,7 +9,7 @@
  */
 public class SuperClass {
     static {
-        System.out.println("SuperClass init");
+        System.out.println("类的初始化时机.SuperClass init");
     }
 
     public static int value = 123;
