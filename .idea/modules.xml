@@ -20,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a09TestClass.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a09TestClass.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/a10ClassLoaderExample/a10ClassLoaderExample.iml" filepath="$PROJECT_DIR$/a10ClassLoaderExample/a10ClassLoaderExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/a11VirtualMachineEngine/a11VirtualMachineEngine.iml" filepath="$PROJECT_DIR$/a11VirtualMachineEngine/a11VirtualMachineEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a12proxytest.iml" filepath="$PROJECT_DIR$/.idea/modules/a12proxytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a12proxytest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a12proxytest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a12proxytest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a12proxytest.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gcts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gcts.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gcts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gcts.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/printallstackes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/printallstackes.main.iml" />

@@ -19,6 +19,8 @@
       <module name="a08ReactiveProgrammingTS.test" target="1.8" />
       <module name="a09TestClass.main" target="1.8" />
       <module name="a09TestClass.test" target="1.8" />
+      <module name="a12proxytest.main" target="1.8" />
+      <module name="a12proxytest.test" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="gcts.main" target="1.8" />
       <module name="gcts.test" target="1.8" />
