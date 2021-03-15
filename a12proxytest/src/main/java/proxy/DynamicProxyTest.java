@@ -38,6 +38,7 @@ public class DynamicProxyTest {
         public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
             System.out.println("Welcome ");
             return method.invoke(originalObj, args);
+
         }
     }
 

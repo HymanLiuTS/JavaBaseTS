@@ -30,8 +30,8 @@ public class ByteUtiles {
     }
 
     public static void main(String[] args) {
-        byte[] b = int2Bytes(1, 8);
+        byte[] b = int2Bytes(256, 8);
         int i = bytes2Int(b, 0, 8);
-        System.out.println("End");
+        System.out.println("End：" + i);
     }
 }
