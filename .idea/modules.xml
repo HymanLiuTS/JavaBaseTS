@@ -12,9 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/a06printstackinfo/a06printstackinfo.iml" filepath="$PROJECT_DIR$/a06printstackinfo/a06printstackinfo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a06printstackinfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a06printstackinfo.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a06printstackinfo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a06printstackinfo.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a08ReactiveProgrammingTS.iml" filepath="$PROJECT_DIR$/.idea/modules/a08ReactiveProgrammingTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a08ReactiveProgrammingTS.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a08ReactiveProgrammingTS.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a08ReactiveProgrammingTS.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a08ReactiveProgrammingTS.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a08ReflectionTS/a08ReflectionTS.iml" filepath="$PROJECT_DIR$/a08ReflectionTS/a08ReflectionTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a09TestClass.iml" filepath="$PROJECT_DIR$/.idea/modules/a09TestClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a09TestClass.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a09TestClass.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a09TestClass.test.iml" filepath="$PROJECT_DIR$/.idea/modules/a09TestClass.test.iml" />
